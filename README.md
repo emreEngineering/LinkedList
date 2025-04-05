@@ -1,4 +1,3 @@
-Tabii, işte başlık kısmı değiştirilmiş ve teknik detaylar kısmı:
 
 ---
 
