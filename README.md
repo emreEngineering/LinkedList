@@ -1,7 +1,7 @@
 
 ---
 
-## 🚀 Uygulama Detayları
+##  Uygulama Detayları
 
 - **Veri Yapıları**: 
   - Tekli bağlı liste (Singly Linked List)
